@@ -21,7 +21,7 @@
 3. [DomPDF](https://github.com/dompdf/dompdf)
 4. [RWD-ImageMaps](https://github.com/stowball/jQuery-rwdImageMaps)
 
+Aplikasi ini dibuat guna memenuhi syarat ETS Mata Kuliah Pengembangan Teknologi Web
 
 Silahkan dikembangkan / disebarluaskan untuk kepentingan bersama agar bermanfaat . :)
-
 Best Regards ~Aldion Amirrul Endryanto
